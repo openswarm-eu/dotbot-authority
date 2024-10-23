@@ -26,7 +26,7 @@ class Authority:
             W,
             CRED_V,
         )
-        self.acl = [1, 43]
+        self.acl = [1, 2, 3, 43]
         self.authorization_log = []
         self.websockets = []
         self.logger = LOGGER.bind(context=__name__)
