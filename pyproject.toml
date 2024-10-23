@@ -30,6 +30,7 @@ dependencies = [
   "uvicorn",
   "websockets",
   "fastapi",
+  "lakers-python",
 ]
 
 [project.urls]
